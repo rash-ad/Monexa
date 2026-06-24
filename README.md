@@ -236,16 +236,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 📬 Contact
-
-Built with ❤️ by the Monexa Team
-
-- 🌐 Website: [monexa.com](https://monexa.com)
-- 📧 Email: hello@monexa.com
-- 🐦 Twitter: [@monexa](https://twitter.com/monexa)
-- 💼 LinkedIn: [Monexa](https://linkedin.com/company/monexa)
-
----
 
 <p align="center">
   <strong>Monexa — Your money. Your control.</strong>
